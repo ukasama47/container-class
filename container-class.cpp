@@ -1,4 +1,3 @@
-//1211201118 hayashi yuka
 #include <iostream>
 #include <map>
 #include <string>
